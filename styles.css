@@ -26,6 +26,8 @@ body {
 img {
   height: 10vh;
   animation: op 5s linear infinite;
+  
+  /*find out why it does not work in main version
 }
 
 @keyframes op {
